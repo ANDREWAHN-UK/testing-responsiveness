@@ -1,21 +1,22 @@
-.parent{
-    background-color: aqua;
-    padding: 2rem;
-}
 
-.child {
-    background-color: yellow;
-    width: 50%;
-    margin: 0 auto;
-}
-
-.child-two{
-    width: 50%;
-    background-color: teal;
-    margin: 0 auto;
-}
-
-.heading{
-    font-size: 3rem;;
-}
+* {
+    box-sizing: border-box;
+  }
+  
+  body {
+    margin: 0;
+    font-family: sans-serif;
+  }
+  
+  .container {
+    background: #23424a;
+    color: white;
+  
+    width: 80%;
+    margin: 5em auto;
+  
+    padding: 2em;
+    
+  }
+  
 
