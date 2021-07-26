@@ -1,22 +1,15 @@
+@import url('https://fonts.googleapis.com/css2?family=Work+Sans:wght@100;200;300;400;500;600;700;800;900&display=swap');
 
+/* common styles */
 * {
-    box-sizing: border-box;
-  }
-  
-  body {
-    margin: 0;
-    font-family: sans-serif;
-  }
-  
-  .container {
-    background: #23424a;
-    color: white;
-  
-    width: 80%;
-    margin: 5em auto;
-  
-    padding: 2em;
-    
-  }
-  
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+  list-style-type: none;
+  outline: none;
+  text-decoration: none;
+  font-family: "Work Sans", sans-serif;
+}
+
+
 
