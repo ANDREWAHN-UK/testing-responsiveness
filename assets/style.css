@@ -1,0 +1,21 @@
+.parent{
+    background-color: aqua;
+    padding: 2rem;
+}
+
+.child {
+    background-color: yellow;
+    width: 50%;
+    margin: 0 auto;
+}
+
+.child-two{
+    width: 50%;
+    background-color: teal;
+    margin: 0 auto;
+}
+
+.heading{
+    font-size: 3rem;;
+}
+
